@@ -1,0 +1,176 @@
+C:\учебка\10labaa\10labaa\bin\Debug\10labaa.exe.config
+C:\учебка\10labaa\10labaa\bin\Debug\10labaa.exe
+C:\учебка\10labaa\10labaa\bin\Debug\10labaa.pdb
+C:\учебка\10labaa\10labaa\bin\Debug\MaterialDesignColors.dll
+C:\учебка\10labaa\10labaa\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\учебка\10labaa\10labaa\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\учебка\10labaa\10labaa\bin\Debug\Newtonsoft.Json.dll
+C:\учебка\10labaa\10labaa\bin\Debug\MaterialDesignColors.pdb
+C:\учебка\10labaa\10labaa\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\учебка\10labaa\10labaa\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\учебка\10labaa\10labaa\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\учебка\10labaa\10labaa\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\учебка\10labaa\10labaa\bin\Debug\Newtonsoft.Json.xml
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.csproj.AssemblyReference.cache
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.csproj.SuggestedBindingRedirects.cache
+C:\учебка\10labaa\10labaa\obj\Debug\diagnosis.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\diagnosis1.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\discount.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\discount1.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\discount2.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\drugrordiagnos.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\drugrordiagnos1.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\View\Drugs.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\MainWindow.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\Offices.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\Offices2.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\Position.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\Roliwin.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\serpos.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\serpos1.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\Services.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\Services2.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\users.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visitor1.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visitors.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visitors2.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visitorsdiagnos.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visitorsdiagnos1.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visitorsdiagnos2.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\Visits.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visits1.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\visits2.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\winadmin.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\winpos.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\winwork.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\workers.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\App.g.cs
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa_MarkupCompile.cache
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa_MarkupCompile.lref
+C:\учебка\10labaa\10labaa\obj\Debug\App.baml
+C:\учебка\10labaa\10labaa\obj\Debug\diagnosis.baml
+C:\учебка\10labaa\10labaa\obj\Debug\diagnosis1.baml
+C:\учебка\10labaa\10labaa\obj\Debug\discount.baml
+C:\учебка\10labaa\10labaa\obj\Debug\discount1.baml
+C:\учебка\10labaa\10labaa\obj\Debug\discount2.baml
+C:\учебка\10labaa\10labaa\obj\Debug\drugrordiagnos.baml
+C:\учебка\10labaa\10labaa\obj\Debug\drugrordiagnos1.baml
+C:\учебка\10labaa\10labaa\obj\Debug\View\Drugs.baml
+C:\учебка\10labaa\10labaa\obj\Debug\MainWindow.baml
+C:\учебка\10labaa\10labaa\obj\Debug\Offices.baml
+C:\учебка\10labaa\10labaa\obj\Debug\Offices2.baml
+C:\учебка\10labaa\10labaa\obj\Debug\Position.baml
+C:\учебка\10labaa\10labaa\obj\Debug\Roliwin.baml
+C:\учебка\10labaa\10labaa\obj\Debug\serpos.baml
+C:\учебка\10labaa\10labaa\obj\Debug\serpos1.baml
+C:\учебка\10labaa\10labaa\obj\Debug\Services.baml
+C:\учебка\10labaa\10labaa\obj\Debug\Services2.baml
+C:\учебка\10labaa\10labaa\obj\Debug\users.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visitor1.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visitors.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visitors2.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visitorsdiagnos.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visitorsdiagnos1.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visitorsdiagnos2.baml
+C:\учебка\10labaa\10labaa\obj\Debug\Visits.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visits1.baml
+C:\учебка\10labaa\10labaa\obj\Debug\visits2.baml
+C:\учебка\10labaa\10labaa\obj\Debug\winadmin.baml
+C:\учебка\10labaa\10labaa\obj\Debug\winpos.baml
+C:\учебка\10labaa\10labaa\obj\Debug\winwork.baml
+C:\учебка\10labaa\10labaa\obj\Debug\workers.baml
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.g.resources
+C:\учебка\10labaa\10labaa\obj\Debug\_10labaa.Properties.Resources.resources
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.csproj.GenerateResource.cache
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.csproj.CoreCompileInputs.cache
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.csproj.CopyComplete
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.exe
+C:\учебка\10labaa\10labaa\obj\Debug\10labaa.pdb
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.csproj.AssemblyReference.cache
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\diagnosis.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\diagnosis1.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\discount.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\discount1.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\discount2.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\drugrordiagnos.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\drugrordiagnos1.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\Drugs.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\MainWindow.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Offices.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Offices2.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Position.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Roliwin.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\serpos.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\serpos1.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Services2.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitor1.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitors2.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitorsdiagnos.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitorsdiagnos1.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitorsdiagnos2.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visits1.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visits2.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\winadmin.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\winpos.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\winwork.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\App.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa_MarkupCompile.cache
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa_MarkupCompile.lref
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.exe
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.pdb
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\workers.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\10labaa.exe.config
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\10labaa.exe
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\10labaa.pdb
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\MaterialDesignColors.dll
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\MaterialDesignColors.pdb
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\App.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\diagnosis.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\diagnosis1.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\discount.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\discount1.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\discount2.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\drugrordiagnos.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\drugrordiagnos1.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\Drugs.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\MainWindow.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Offices.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Offices2.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Position.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Roliwin.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\serpos.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\serpos1.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\Services2.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitor1.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitors2.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitorsdiagnos.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitorsdiagnos1.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visitorsdiagnos2.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visits1.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\visits2.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\winadmin.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\winpos.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\winwork.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\workers.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.g.resources
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\_10labaa.Properties.Resources.resources
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.csproj.GenerateResource.cache
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\10labaa.csproj.CopyComplete
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\users.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\users.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\Visits.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\Visits.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\Services.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\Services.baml
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\visitors.g.cs
+C:\Users\maksi\Downloads\Telegram Desktop\10labaa\10labaa\10labaa\obj\Debug\View\visitors.baml

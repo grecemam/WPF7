@@ -1,0 +1,70 @@
+﻿<Window x:Class="_10labaa.Visits"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10labaa"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+        mc:Ignorable="d"
+        Title="Visits" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="101*"/>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="106*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="216*"/>
+            <RowDefinition Height="56*"/>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="73*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF181B21"/>
+                <GradientStop Color="#FF3357B1" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DataGrid x:Name="visDataGrid" ItemsSource="{Binding Visits}"  SelectedItem="{Binding GovnaPojralo}" Margin="5,1,5,7" Foreground="#DD000000" BorderBrush="#FFF2F4F6" Grid.Row="1" Grid.ColumnSpan="4">
+            <DataGrid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFEDEDED"/>
+                    <GradientStop Color="#FF283E75" Offset="1"/>
+                </LinearGradientBrush>
+            </DataGrid.Background>
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="SelectionChanged">
+                    <i:InvokeCommandAction Command="{Binding SelectionCommand}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </DataGrid>
+        <TextBlock Margin="70,3,50,0" TextWrapping="Wrap" Text="Посещения" FontSize="36" TextAlignment="Center" Foreground="White" FontFamily="Times New Roman" Height="34" VerticalAlignment="Top" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="poscb" SelectedValue="{Binding GovnaPojralo.Row[2]}" DisplayMemberPath="Surname" SelectedValuePath="visitors_id" ItemsSource="{Binding Visitor}"  materialDesign:HintAssist.Hint="Посетитель" Margin="10,0,7,0" Grid.Row="2" Foreground="White" BorderBrush="#89FFFFFF" Height="25" Grid.Column="1">
+            <ComboBox.Resources>
+                <SolidColorBrush x:Key="MaterialDesignPaper" Color="#FF26448E"/>
+            </ComboBox.Resources>
+        </ComboBox>
+        <ComboBox x:Name="workcb" SelectedValue="{Binding GovnaPojralo.Row[1]}" DisplayMemberPath="Surname" SelectedValuePath="workers_id" ItemsSource="{Binding Workers}" materialDesign:HintAssist.Hint="Врач" Margin="16,0,16,0" Grid.Row="2" Foreground="White" BorderBrush="#89FFFFFF" Height="25">
+            <ComboBox.Resources>
+                <SolidColorBrush x:Key="MaterialDesignPaper" Color="#FF26448E"/>
+            </ComboBox.Resources>
+        </ComboBox>
+        <Button x:Name="backbtn" Content=" Назад" Height="35" Background="#FF1A1F2A" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Cursor="Hand" Margin="23,28,72,0" Grid.Row="4" Click="backbtn_Click"/>
+        <Button x:Name="addbtn" Content="Добавить" Height="35" Background="#FF1A1F2B" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Cursor="Hand" Margin="40,28,28,0" Grid.Row="4" Grid.Column="1" Command="{Binding AddCommand}"/>
+        <Button x:Name="updatebtn" Content="Изменить" Height="35" Background="#FF1A1F2B" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Cursor="Hand" Margin="45,28,39,0" Grid.Row="4" Grid.Column="2" FontWeight="Bold" Command="{Binding UpdateCommand}"/>
+        <Button x:Name="delbtn" Content="Удалить" Height="35" Background="#FF1A1F2B" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Cursor="Hand" Margin="55,28,48,0" Grid.Row="4" Grid.Column="3" RenderTransformOrigin="1.377,0.543" Command="{Binding DeleteCommand}"/>
+        <ComboBox x:Name="ofcb" SelectedValue="{Binding GovnaPojralo.Row[3]}" DisplayMemberPath="number_of_office" SelectedValuePath="office_id" ItemsSource="{Binding Office}"  materialDesign:HintAssist.Hint="Кабинет" Margin="12,0,19,0" Grid.Row="2" Foreground="White" BorderBrush="#89FFFFFF" Height="25" Grid.Column="2">
+            <ComboBox.Resources>
+                <SolidColorBrush x:Key="MaterialDesignPaper" Color="#FF26448E"/>
+            </ComboBox.Resources>
+        </ComboBox>
+        <ComboBox x:Name="discb" SelectedValue="{Binding GovnaPojralo.Row[4]}" DisplayMemberPath="percentage_of_the_discount" SelectedValuePath="discount_id" ItemsSource="{Binding Discounts}"  materialDesign:HintAssist.Hint="Скидка" Margin="25,0,18,0" Grid.Row="2" Foreground="White" BorderBrush="#89FFFFFF" Height="25" Grid.Column="3">
+            <ComboBox.Resources>
+                <SolidColorBrush x:Key="MaterialDesignPaper" Color="#FF26448E"/>
+            </ComboBox.Resources>
+        </ComboBox>
+
+    </Grid>
+</Window>

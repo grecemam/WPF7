@@ -1,0 +1,33 @@
+﻿<Window x:Class="_10labaa.winadmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10labaa"
+        mc:Ignorable="d"
+        Title="winadmin" Height="450" Width="800">
+    <Grid x:Name="Работники">
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF181B21"/>
+                <GradientStop Color="#FF3357B1" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="RoliBtn" Content="Роли" Height="37" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Click="RoliBtn_Click" Cursor="Hand" Margin="34,37,564,0"/>
+        <Button x:Name="workBtn" Content="Работники" Height="37" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Click="workBtn_Click" Margin="529,37,44,0"/>
+        <Button x:Name="UsersBtn" Content="Пользователи" Height="37" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Click="UsersBtn_Click" Margin="268,37,313,0" RenderTransformOrigin="0.673,0.515"/>
+        <Button x:Name="visitorsBtn" Content="Посетители" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="34,108,564,0" Cursor="Hand" Click="visitorsBtn_Click_2" />
+        <Button x:Name="visitsBtn" Content="Посещения" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Click="visitsBtn_Click" Margin="268,108,313,0"/>
+        <Button x:Name="visitsBtn_Copy" Content="Диагнозы посетителей" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Click="visitsBtn_Copy_Click" Margin="529,108,44,0"/>
+        <Button x:Name="backbtn" Content="Назад" Height="35" Background="#FF1A1F2B" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Cursor="Hand" Margin="34,371,34,0" Click="backbtn_Click" />
+        <Button x:Name="positionbtn" Content="Должности" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Click="visitorsBtn_Click" Margin="34,182,564,0"/>
+        <Button x:Name="Officebtn" Content="Кабинеты" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="268,182,313,0" Click="Officebtn_Click"/>
+        <Button x:Name="dicbtn" Content="Скидки" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Margin="529,182,44,0" Click="dicbtn_Click"/>
+        <Button x:Name="servicebtn" Content="Услуги" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="529,254,44,0" Click="servicebtn_Click"/>
+        <Button x:Name="visservicebtn" Content="Услуги посетителей" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="268,254,313,0" Click="visservicebtn_Click"/>
+        <Button x:Name="diagbtn" Content="Диагнозы" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="34,254,564,0" Click="diagbtn_Click"/>
+        <Button x:Name="drugdiagbtn" Content="Препараты для диагнозов" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Margin="60,319,466,0" Click="drugdiagbtn_Click"/>
+        <Button x:Name="drugbtn" Content="Препараты" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="427,319,99,0" Click="drugbtn_Click"/>
+    </Grid>
+</Window>

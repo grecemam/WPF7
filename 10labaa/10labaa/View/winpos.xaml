@@ -1,0 +1,38 @@
+﻿<Window x:Class="_10labaa.winpos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10labaa"
+        mc:Ignorable="d"
+        Title="winpos" Height="450" Width="800">
+    <Grid x:Name="Работники">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="257*"/>
+            <ColumnDefinition Width="288*"/>
+            <ColumnDefinition Width="256*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="63*"/>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="53*"/>
+            <RowDefinition Height="124*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF181B21"/>
+                <GradientStop Color="#FF3357B1" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="visitorsBtn" Content="Посетители" Height="36" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Center" BorderBrush="White"  Margin="8,0,8,0" Cursor="Hand" Grid.Row="1" Grid.Column="1" Click="visitorsBtn_Click"  />
+        <Button x:Name="visitsBtn" Content="Посещения" Height="36" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="8,23,9,0" Grid.Column="1" Click="visitsBtn_Click"/>
+        <Button x:Name="visitsBtn_Copy" Content="Диагнозы посетителей" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Center" BorderBrush="White" Margin="8,0,7,0" Grid.Row="4" Grid.Column="1" Click="visitsBtn_Copy_Click"/>
+        <Button x:Name="backbtn" Content="Назад" Height="35" Background="#FF1A1F2B" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Cursor="Hand" Margin="0,35,0,0" Grid.Row="6" Grid.ColumnSpan="3" Click="backbtn_Click"  />
+        <Button x:Name="dicbtn" Content="Скидки" Height="32" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Margin="8,8,7,0" Grid.Row="3" Grid.Column="1" Click="dicbtn_Click" />
+        <Button x:Name="visservicebtn" Content="Услуги посетителей" Height="36" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White"  Margin="8,10,7,0" Grid.Row="2" Grid.Column="1" Click="visservicebtn_Click" />
+        <Button x:Name="drugdiagbtn" Content="Препараты для диагнозов" Height="35" Background="#FF5E6275" FontFamily="Candara Light" FontSize="18" VerticalAlignment="Top" BorderBrush="White" Margin="8,8,7,0" Grid.Row="5" Grid.Column="1" Click="drugdiagbtn_Click"/>
+    </Grid>
+</Window>
